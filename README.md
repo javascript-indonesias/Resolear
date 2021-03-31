@@ -60,6 +60,20 @@ Saya ingin membantu teman-teman untuk menemukan sumber belajar pemrograman berbe
 | [Belajar NodeJS](https://www.youtube.com/watch?v=sSLJx5t4OJ4&list=PLFIM0718LjIW-XBdVOerYgKegBtD6rSfD) | Web Programming UNPAS |
 | [Belajar Nodejs](https://www.youtube.com/watch?v=8gpc3W-6-s8&list=PL9At9z2rvOC8ETtj8X1w5HLcaRUmRoS-3) | baledemy              |
 
+### <img src="assets/icons/nodejs.svg" width="24"> NodeJS
+
+| Daftar kursus                                                                                         | Sumber                |
+| ----------------------------------------------------------------------------------------------------- | --------------------- |
+| [Belajar NodeJS](https://www.youtube.com/watch?v=sSLJx5t4OJ4&list=PLFIM0718LjIW-XBdVOerYgKegBtD6rSfD) | Web Programming UNPAS |
+| [Belajar Nodejs](https://www.youtube.com/watch?v=8gpc3W-6-s8&list=PL9At9z2rvOC8ETtj8X1w5HLcaRUmRoS-3) | baledemy              |
+
+### <img src="assets/icons/nodejs.svg" width="24"> NodeJS
+
+| Daftar kursus                                                                                                         | Sumber                                  |
+| --------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| [SERI BELAJAR EXPRESS JS - WEB](https://www.youtube.com/watch?v=kHHmdEdnfVk&list=PLea3rpAI1OjhXMq1urae8k6ldEiPtHm0J)  | sekolahkampus TV Programming & Tutorial |
+| [REST API Toko Online Expressjs](https://www.youtube.com/watch?v=tHAFGZfDWak&list=PLp6BJq2fT_g8cr3fDf4ZdTzv_5ncjDxVj) | LampungDev                              |
+
 ### <img src="assets/icons/react.svg" width="24"> React
 
 | Daftar kursus                                                                                                             | Sumber          |
