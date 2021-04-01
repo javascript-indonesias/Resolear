@@ -8,7 +8,36 @@ Saya ingin membantu teman-teman untuk menemukan sumber belajar pemrograman berbe
 
 ### ✨ Daftar kumpulan sumber belajar
 
-## Web Development
+## 1. <a href='#webDevelopment'> Web Developement</a>
+
+### Daftar Web Development
+
+<table id="webDevelopment">
+    <tr>
+        <th>Teknologi</th>
+        <th>Kursus</th>
+        <th>Sumber</th>
+    </tr>
+    <tr>
+        <td rowspan="3"><img src="assets/icons/html.svg" height="24"> HTML</td>
+        <td>
+          <a href="https://www.youtube.com/watch?v=NBZ9Ro6UKV8&list=PLFIM0724LjIVuONHysfOK0ZtiqUWvrx4F">HTML Dasar</a>
+        </td>
+        <td>Web Programming UNPAS</td>
+    </tr>
+    <tr>
+         <td>
+          <a href="https://www.youtube.com/watch?v=kr4882GSwpA&list=PLCZlgfAG0GXC9ojTmU95BRefbJoi4clY-">Belajar HTML untuk pemula</a>
+        </td>
+        <td>Sekolah Koding</td>
+    </tr>
+    <tr>
+         <td>
+          <a href="https://www.youtube.com/watch?v=uSb9c6QelSc&list=PLSv5rWbwie71s8EE1QpuEi0Liqdi523BX">Belajar HTML</a>
+        </td>
+        <td>codeners</td>
+    </tr>
+</table>
 
 ### <img src="assets/icons/html.svg" height="24"> HTML
 
@@ -60,19 +89,19 @@ Saya ingin membantu teman-teman untuk menemukan sumber belajar pemrograman berbe
 | [Belajar NodeJS](https://www.youtube.com/watch?v=sSLJx5t4OJ4&list=PLFIM0718LjIW-XBdVOerYgKegBtD6rSfD) | Web Programming UNPAS |
 | [Belajar Nodejs](https://www.youtube.com/watch?v=8gpc3W-6-s8&list=PL9At9z2rvOC8ETtj8X1w5HLcaRUmRoS-3) | baledemy              |
 
-### <img src="assets/icons/nodejs.svg" width="24"> NodeJS
-
-| Daftar kursus                                                                                         | Sumber                |
-| ----------------------------------------------------------------------------------------------------- | --------------------- |
-| [Belajar NodeJS](https://www.youtube.com/watch?v=sSLJx5t4OJ4&list=PLFIM0718LjIW-XBdVOerYgKegBtD6rSfD) | Web Programming UNPAS |
-| [Belajar Nodejs](https://www.youtube.com/watch?v=8gpc3W-6-s8&list=PL9At9z2rvOC8ETtj8X1w5HLcaRUmRoS-3) | baledemy              |
-
-### <img src="assets/icons/nodejs.svg" width="24"> NodeJS
+### <img src="assets/icons/expressjs.svg" width="24"> Express.js
 
 | Daftar kursus                                                                                                         | Sumber                                  |
 | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 | [SERI BELAJAR EXPRESS JS - WEB](https://www.youtube.com/watch?v=kHHmdEdnfVk&list=PLea3rpAI1OjhXMq1urae8k6ldEiPtHm0J)  | sekolahkampus TV Programming & Tutorial |
 | [REST API Toko Online Expressjs](https://www.youtube.com/watch?v=tHAFGZfDWak&list=PLp6BJq2fT_g8cr3fDf4ZdTzv_5ncjDxVj) | LampungDev                              |
+
+### <img src="assets/icons/mongodb.svg" width="24"> MongoDB
+
+| Daftar kursus                                                                                                                         | Sumber               |
+| ------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| [Tutorial MongoDB Bahasa Indonesia Untuk Pemula](https://www.youtube.com/watch?v=rK87DPmXKss&list=PL_IjXn0_FZpnEGReatfR6dSoNUsD2nYML) | D.Koding             |
+| [Belajar MongoDB](https://www.youtube.com/watch?v=JXXUBiJGu94&list=PL-CtdCApEFH-eFFdPeS5e16o3THdmvxvz)                                | Programmer Zaman Now |
 
 ### <img src="assets/icons/react.svg" width="24"> React
 
