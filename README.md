@@ -8,11 +8,11 @@ Saya ingin membantu teman-teman untuk menemukan sumber belajar pemrograman berbe
 
 ### ✨ Daftar kumpulan sumber belajar
 
-## 1. <a href='#webDevelopment'> Web Developement</a>
+#### 1. <a href='#webDevelopment'> Web Developement</a>
 
-### Daftar Web Development
+<h3 id="webDevelopment">Daftar Web Development</h3>
 
-<table id="webDevelopment">
+<table>
     <tr>
         <th>Teknologi</th>
         <th>Kursus</th>
