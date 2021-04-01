@@ -6,9 +6,9 @@ Resolear adalah kumpulan sumber belajar pemrograman berbahasa indonesia, yang di
 
 Saya ingin membantu teman-teman untuk menemukan sumber belajar pemrograman berbentuk video dengan mudah.
 
-### ✨ Daftar kumpulan sumber belajar
+### ✨ Daftar Kumpulan Sumber Belajar
 
-#### 1. <a href='#webDevelopment'> Web Developement</a>
+#### 1. <a href='#webDevelopment'> Web Development</a>
 
 <h3 id="webDevelopment">Daftar Web Development</h3>
 
