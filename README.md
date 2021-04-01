@@ -229,32 +229,6 @@ Saya ingin membantu teman-teman untuk menemukan sumber belajar pemrograman berbe
         <td>Wahidev Academy</td>
     </tr>
 </table>
-<!-- 
-### <img src="assets/icons/bootstrap.svg" width="24"> Bootstrap
-
-| Daftar kursus                                                                                                               | Sumber                |
-| --------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| [Membuat Website dengan CSS Framework](https://www.youtube.com/watch?v=NNW7Tg8CgAQ&list=PLFIM0718LjIVWpIhlNA_sU-4ZWvN4uSmb) | Web Programming UNPAS |
-| [Belajar menggunakan bootstrap](https://www.youtube.com/watch?v=0cJDRnAufmY&list=PLCZlgfAG0GXC5wPjJGj1LvFaVK2cbN2GQ)        | Sekolah Koding        |
-| [Belajar Bootstrap 4](https://www.youtube.com/watch?v=tvVO6Lnk5J0&list=PLce3Eyp7oY9-o3JavSawkXcazJSYx7KAf)                  | Framework Indonesia   |
-
-### <img src="assets/icons/tailwindcss.svg" width="24"> Tailwind CSS
-
-| Daftar kursus                                                                                                         | Sumber         |
-| --------------------------------------------------------------------------------------------------------------------- | -------------- |
-| [Belajar Tailwind CSS dari awal](https://www.youtube.com/watch?v=BgrFaioSgOs&list=PLRKMmwY3-5MzDRgC8eOLBKeA-ur_oRV5r) | Parsinta       |
-| [Belajar Tailwind CSS 2](https://www.youtube.com/watch?v=zyM8JLrVSYc&list=PLRKMmwY3-5MwRmXsFmLXqcIZytzKdOScA)         | Parsinta       |
-| [Tailwind v2 belajar](https://www.youtube.com/watch?v=rqdR9wbW71Y&list=PLCZlgfAG0GXC3A8LuUzbbWVWKD-CX5C3_)            | Sekolah Koding |
-
-### <img src="assets/icons/rest-api.svg" width="24"> API
-
-| Daftar kursus                                                                                                | Sumber                                  |
-| ------------------------------------------------------------------------------------------------------------ | --------------------------------------- |
-| [REST API](https://www.youtube.com/watch?v=vQJJ_K1JbEA&list=PLFIM0718LjIW7AsIbnhFg15t9yx4H-sQ0)              | Web Programming UNPAS                   |
-| [Belajar RESTful API](https://www.youtube.com/watch?v=uG1YiueoLNc&list=PL-CtdCApEFH-g0XS7fraWEZ28M8DiykC4)   | Programming Zaman Now                   |
-| [SERI BELAJAR API REST](https://www.youtube.com/watch?v=4sK2w5p93HM&list=PLea3rpAI1OjiyECqrWbZsFZkJzR9uESYj) | sekolahkampus TV Programming & Tutorial |
-
--->
 
 ### 📝 Lisensi
 
