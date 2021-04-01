@@ -37,42 +37,120 @@ Saya ingin membantu teman-teman untuk menemukan sumber belajar pemrograman berbe
         </td>
         <td>codeners</td>
     </tr>
+    <tr>
+        <td rowspan="9"><img src="assets/icons/css.svg" height="24"> CSS</td>
+        <td>
+          <a href="https://www.youtube.com/watch?v=CleFk3BZB3g&list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p">CSS Dasar</a>
+        </td>
+        <td>Web Programming UNPAS</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=rbTEOOucUOs&list=PLCZlgfAG0GXAvVZ1Wb1D7HVAPNJGk4f-G">Belajar CSS untuk pemula</a>
+        </td>
+        <td>Sekolah Koding</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=Phn2eN6j0pg&list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr">CSS Layouting</a>
+        </td>
+        <td>Web Programming UNPAS</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=J0a6YUUAsd4&list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa">CSS3</a>
+        </td>
+        <td>Web Programming UNPAS</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=Y7zn7zhAIi8&list=PLCZlgfAG0GXAcU8NqgbY065mo9Sho-5Tc">Mulai belajar CSS3</a>
+        </td>
+        <td>Sekolah Koding</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=-J372iDFU8Y&list=PLFIM0718LjIU1lWlM34j6E9fMlrrSGZ1k">Belajar FLEXBOX</a>
+        </td>
+        <td>Web Programming UNPAS</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=qCMLP6GtyBc&list=PLFIM0718LjIXmbwX0dEsoRVX-PC16vmuw">CSS GRID</a>
+        </td>
+        <td>Web Programming UNPAS</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=XZXBqpGU8n4&list=PLFIM0718LjIUqemgG97MAOK0J_berlQM5">Tutorial SASS</a>
+        </td>
+        <td>Web Programming UNPAS</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=SFlK2tzBmcQ&list=PLCZlgfAG0GXBIi8ZDcuN658AzNAzFN0Kv5">Belajar SASS</a>
+        </td>
+        <td>Sekolah Koding</td>
+    </tr>
+    <tr>
+        <td rowspan="9"><img src="assets/icons/js.svg" width="24"> JavaScript</td>
+        <td>
+          <a href="https://www.youtube.com/watch?v=RUTV_5m4VeI&list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w">Dasar Pemrograman dengan Javascript</a>
+        </td>
+        <td>Web Programming UNPAS</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=SDROba_M42g">TUTORIAL JAVASCRIPT DASAR BAHASA INDONESIA</a>
+        </td>
+        <td>Programmer Zaman Now</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=ttYTx_wGcQY&list=PLCZlgfAG0GXAiH1acKFPx8EtpJAq44gjP">Belajar javascript untuk pemula</a>
+        </td>
+        <td>Sekolah Koding</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=To1O7QFe-2E&list=PL1aMeb5UP_PGc_FLQa9iD5KkFB9L2cXqF">Tutorial JavaScript Bahasa Indonesia Lengkap</a>
+        </td>
+        <td>IDStack</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=aT60R1cySLM&list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3">Javascript & DOM(Document Object Model)</a>
+        </td>
+        <td>Web Programming UNPAS</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=X3nmuxZVpP4&list=PLCZlgfAG0GXCYyHqv8llpZpnTpnCRs94G">Mengenal DOM Javascript</a>
+        </td>
+        <td>Sekolah Koding</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=ljSCNdV8eDo&list=PL1aMeb5UP_PFwwuiDCeOwHIlsy-Dcwlqf">Tutorial DOM (Document Object Model) JavaScript Bahasa Indonesia</a>
+        </td>
+        <td>IDStack</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=RwT41El778A&list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-">JavaScript Lanjutan</a>
+        </td>
+        <td>Web Programming UNPAS</td>
+    </tr>
 </table>
 
-### <img src="assets/icons/html.svg" height="24"> HTML
-
-| Daftar kursus                                                                                                    | Sumber                |
-| ---------------------------------------------------------------------------------------------------------------- | --------------------- |
-| [HTML Dasar](https://www.youtube.com/watch?v=NBZ9Ro6UKV8&list=PLFIM0724LjIVuONHysfOK0ZtiqUWvrx4F)                | Web Programming UNPAS |
-| [Belajar HTML untuk pemula](https://www.youtube.com/watch?v=kr4882GSwpA&list=PLCZlgfAG0GXC9ojTmU95BRefbJoi4clY-) | Sekolah Koding        |
-| [Belajar HTML](https://www.youtube.com/watch?v=uSb9c6QelSc&list=PLSv5rWbwie71s8EE1QpuEi0Liqdi523BX)              | codeners              |
-
-### <img src="assets/icons/css.svg" height="24"> CSS
-
-| Daftar kursus                                                                                                   | Sumber                |
-| --------------------------------------------------------------------------------------------------------------- | --------------------- |
-| [CSS Dasar](https://www.youtube.com/watch?v=CleFk3BZB3g&list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p)                | Web Programming UNPAS |
-| [Belajar CSS untuk pemula](https://www.youtube.com/watch?v=rbTEOOucUOs&list=PLCZlgfAG0GXAvVZ1Wb1D7HVAPNJGk4f-G) | Sekolah Koding        |
-| [CSS Layouting](https://www.youtube.com/watch?v=Phn2eN6j0pg&list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr)            | Web Programming UNPAS |
-| [CSS3](https://www.youtube.com/watch?v=J0a6YUUAsd4&list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa)                     | Web Programming UNPAS |
-| [Mulai belajar CSS3](https://www.youtube.com/watch?v=Y7zn7zhAIi8&list=PLCZlgfAG0GXAcU8NqgbY065mo9Sho-5Tc)       | Sekolah Koding        |
-| [Belajar FLEXBOX](https://www.youtube.com/watch?v=-J372iDFU8Y&list=PLFIM0718LjIU1lWlM34j6E9fMlrrSGZ1k)          | Web Programming UNPAS |
-| [CSS GRID](https://www.youtube.com/watch?v=qCMLP6GtyBc&list=PLFIM0718LjIXmbwX0dEsoRVX-PC16vmuw)                 | Web Programming UNPAS |
-| [Tutorial SASS](https://www.youtube.com/watch?v=XZXBqpGU8n4&list=PLFIM0718LjIUqemgG97MAOK0J_berlQM5)            | Web Programming UNPAS |
-| [Belajar SASS](https://www.youtube.com/watch?v=SFlK2tzBmcQ&list=PLCZlgfAG0GXBIi8ZDcuN658AzNAzFN0Kv)             | Sekolah Koding        |
-
-### <img src="assets/icons/js.svg" width="24"> JavaScript
-
-| Daftar kursus                                                                                                                                           | Sumber                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | --- |
-| [Dasar Pemrograman dengan Javascript](https://www.youtube.com/watch?v=RUTV_5m4VeI&list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w)                              | Web Programming UNPAS |
-| [TUTORIAL JAVASCRIPT DASAR BAHASA INDONESIA](https://www.youtube.com/watch?v=SDROba_M42g)                                                               | Programmer Zaman Now  |
-| [Belajar javascript untuk pemula](https://www.youtube.com/watch?v=ttYTx_wGcQY&list=PLCZlgfAG0GXAiH1acKFPx8EtpJAq44gjP)                                  | Sekolah Koding        |
-| [Tutorial JavaScript Bahasa Indonesia Lengkap](https://www.youtube.com/watch?v=To1O7QFe-2E&list=PL1aMeb5UP_PGc_FLQa9iD5KkFB9L2cXqF)                     | IDStack               |
-| [Javascript & DOM(Document Object Model)](https://www.youtube.com/watch?v=aT60R1cySLM&list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3)                          | Web Programming UNPAS |
-| [Mengenal DOM Javascript](https://www.youtube.com/watch?v=X3nmuxZVpP4&list=PLCZlgfAG0GXCYyHqv8llpZpnTpnCRs94G)                                          | Sekolah Koding        |
-| [Tutorial DOM (Document Object Model) JavaScript Bahasa Indonesia](https://www.youtube.com/watch?v=ljSCNdV8eDo&list=PL1aMeb5UP_PFwwuiDCeOwHIlsy-Dcwlqf) | IDStack               |
-| [JavaScript Lanjutan](https://www.youtube.com/watch?v=RwT41El778A&list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-)                                              | Web Programming UNPAS |     |
+| [Dasar Pemrograman dengan Javascript](https://www.youtube.com/watch?v=RUTV_5m4VeI&list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w) | Web Programming UNPAS |
+| [TUTORIAL JAVASCRIPT DASAR BAHASA INDONESIA](https://www.youtube.com/watch?v=SDROba_M42g) | Programmer Zaman Now |
+| [Belajar javascript untuk pemula](https://www.youtube.com/watch?v=ttYTx_wGcQY&list=PLCZlgfAG0GXAiH1acKFPx8EtpJAq44gjP) | Sekolah Koding |
+| [Tutorial JavaScript Bahasa Indonesia Lengkap](https://www.youtube.com/watch?v=To1O7QFe-2E&list=PL1aMeb5UP_PGc_FLQa9iD5KkFB9L2cXqF) | IDStack |
+| [Javascript & DOM(Document Object Model)](https://www.youtube.com/watch?v=aT60R1cySLM&list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3) | Web Programming UNPAS |
+| [Mengenal DOM Javascript](https://www.youtube.com/watch?v=X3nmuxZVpP4&list=PLCZlgfAG0GXCYyHqv8llpZpnTpnCRs94G) | Sekolah Koding |
+| [Tutorial DOM (Document Object Model) JavaScript Bahasa Indonesia](https://www.youtube.com/watch?v=ljSCNdV8eDo&list=PL1aMeb5UP_PFwwuiDCeOwHIlsy-Dcwlqf) | IDStack |
+| [JavaScript Lanjutan](https://www.youtube.com/watch?v=RwT41El778A&list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-) | Web Programming UNPAS | |
 
 ### <img src="assets/icons/git.svg" width="24"> Git & <img src="assets/icons/github.svg" width="24"> GitHub
 
