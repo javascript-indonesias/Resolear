@@ -1,6 +1,6 @@
 ### 🤔 Apa itu Resolear?
 
-Resolear adalah aplikasi berisikan kumpulan sumber belajar pemrograman berbahasa indonesia, yang dibuat oleh <a href="https://github.com/hafidardiansyah"> Hafid Ardiansyah</a>.
+Resolear adalah kumpulan sumber belajar pemrograman berbahasa indonesia, yang dibuat oleh <a href="https://github.com/hafidardiansyah"> Hafid Ardiansyah</a>.
 
 ### 🎉 Kenapa membuat Resolear?
 
@@ -38,7 +38,7 @@ Saya ingin membantu teman-teman untuk menemukan sumber belajar pemrograman berbe
         <td>codeners</td>
     </tr>
     <tr>
-        <td rowspan="9"><img src="assets/icons/css.svg" height="24"> CSS</td>
+        <td rowspan="7"><img src="assets/icons/css.svg" height="24"> CSS</td>
         <td>
           <a href="https://www.youtube.com/watch?v=CleFk3BZB3g&list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p">CSS Dasar</a>
         </td>
@@ -81,19 +81,7 @@ Saya ingin membantu teman-teman untuk menemukan sumber belajar pemrograman berbe
         <td>Web Programming UNPAS</td>
     </tr>
     <tr>
-        <td>
-          <a href="https://www.youtube.com/watch?v=XZXBqpGU8n4&list=PLFIM0718LjIUqemgG97MAOK0J_berlQM5">Tutorial SASS</a>
-        </td>
-        <td>Web Programming UNPAS</td>
-    </tr>
-    <tr>
-        <td>
-          <a href="https://www.youtube.com/watch?v=SFlK2tzBmcQ&list=PLCZlgfAG0GXBIi8ZDcuN658AzNAzFN0Kv5">Belajar SASS</a>
-        </td>
-        <td>Sekolah Koding</td>
-    </tr>
-    <tr>
-        <td rowspan="9"><img src="assets/icons/js.svg" width="24"> JavaScript</td>
+        <td rowspan="8"><img src="assets/icons/js.svg" width="24"> JavaScript</td>
         <td>
           <a href="https://www.youtube.com/watch?v=RUTV_5m4VeI&list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w">Dasar Pemrograman dengan Javascript</a>
         </td>
@@ -141,56 +129,107 @@ Saya ingin membantu teman-teman untuk menemukan sumber belajar pemrograman berbe
         </td>
         <td>Web Programming UNPAS</td>
     </tr>
+    <tr>
+        <td rowspan="3">
+          <img src="assets/icons/git.svg" width="24"> Git & <img src="assets/icons/github.svg" width="24"> GitHub
+        </td>
+        <td>
+          <a href="https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf">GIT & GITHUB</a>
+        </td>
+        <td>Web Programming UNPAS</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=cM-zpc8LUk0&list=PLCZlgfAG0GXCtwnagWsUzZum1CFZYqrB5">Apa itu GitHub</a>
+        </td>
+        <td>Sekolah Koding</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=i7fnAxHAp0M&list=PL1aMeb5UP_PHXTV_Xpt-19x_rVPXrymOM">Tutorial GIT Bahasa Indonesia Lengkap</a>
+        </td>
+        <td>IDStack</td>
+    </tr>
+    <tr>
+        <td rowspan="2">
+          <img src="assets/icons/nodejs.svg" width="24"> NodeJS
+        </td>
+        <td>
+          <a href="https://www.youtube.com/watch?v=sSLJx5t4OJ4&list=PLFIM0718LjIW-XBdVOerYgKegBtD6rSfD">Belajar NodeJS</a>
+        </td>
+        <td>Web Programming UNPAS</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=8gpc3W-6-s8&list=PL9At9z2rvOC8ETtj8X1w5HLcaRUmRoS-3">Belajar Nodejs</a>
+        </td>
+        <td>baledemy</td>
+    </tr>
+    <tr>
+        <td rowspan="2">
+          <img src="assets/icons/expressjs.svg" width="24"> Express.js
+        </td>
+        <td>
+          <a href="https://www.youtube.com/watch?v=kHHmdEdnfVk&list=PLea3rpAI1OjhXMq1urae8k6ldEiPtHm0J">SERI BELAJAR EXPRESS JS - WEB</a>
+        </td>
+        <td>sekolahkampus TV Programming & Tutorial</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=tHAFGZfDWak&list=PLp6BJq2fT_g8cr3fDf4ZdTzv_5ncjDxVj">REST API Toko Online Expressjs</a>
+        </td>
+        <td>LampungDev</td>
+    </tr>
+    <tr>
+        <td rowspan="2">
+          <img src="assets/icons/mongodb.svg" width="24"> MongoDB
+        </td>
+        <td>
+          <a href="https://www.youtube.com/watch?v=rK87DPmXKss&list=PL_IjXn0_FZpnEGReatfR6dSoNUsD2nYML">Tutorial MongoDB Bahasa Indonesia Untuk Pemula</a>
+        </td>
+        <td>D.Koding</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=JXXUBiJGu94&list=PL-CtdCApEFH-eFFdPeS5e16o3THdmvxvz">Belajar MongoDB</a>
+        </td>
+        <td>Programmer Zaman Now</td>
+    </tr>
+    <tr>
+        <td rowspan="5">
+          <img src="assets/icons/react.svg" width="24"> React
+        </td>
+        <td>
+          <a href="https://www.youtube.com/watch?v=5kHyviqjhCk&list=PLU4DS8KR-LJ03qEsHn9zV4qdhcWtusBqb">ReactJS Tutorial</a>
+        </td>
+        <td>prawinto hudoro</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=ZNVRETPPW24&list=PLCZlgfAG0GXALZIcEe2t3XVuQ50JYbsbA">Belajar ReactJS Bahasa Indonesia</a>
+        </td>
+        <td>Sekolah Koding</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=3M4dFZL5NRs&list=PLp6BJq2fT_g91yCNCWi_bIe-ng7S7rt6V">Tutorial React.js Bahasa Indonesia</a>
+        </td>
+        <td>LampungDev</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=gZQtT7MulYE&list=PL9At9z2rvOC8-NBRMj6WjgN3Vy71hwY3n">Belajar Reactjs</a>
+        </td>
+        <td>baledemy</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=AYb7l6XDlPo&list=PLIan8aHxsPj0XtJjWW04hN24fWXrCpLkY">React JS Dasar Bahasa Indonesia</a>
+        </td>
+        <td>Wahidev Academy</td>
+    </tr>
 </table>
-
-| [Dasar Pemrograman dengan Javascript](https://www.youtube.com/watch?v=RUTV_5m4VeI&list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w) | Web Programming UNPAS |
-| [TUTORIAL JAVASCRIPT DASAR BAHASA INDONESIA](https://www.youtube.com/watch?v=SDROba_M42g) | Programmer Zaman Now |
-| [Belajar javascript untuk pemula](https://www.youtube.com/watch?v=ttYTx_wGcQY&list=PLCZlgfAG0GXAiH1acKFPx8EtpJAq44gjP) | Sekolah Koding |
-| [Tutorial JavaScript Bahasa Indonesia Lengkap](https://www.youtube.com/watch?v=To1O7QFe-2E&list=PL1aMeb5UP_PGc_FLQa9iD5KkFB9L2cXqF) | IDStack |
-| [Javascript & DOM(Document Object Model)](https://www.youtube.com/watch?v=aT60R1cySLM&list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3) | Web Programming UNPAS |
-| [Mengenal DOM Javascript](https://www.youtube.com/watch?v=X3nmuxZVpP4&list=PLCZlgfAG0GXCYyHqv8llpZpnTpnCRs94G) | Sekolah Koding |
-| [Tutorial DOM (Document Object Model) JavaScript Bahasa Indonesia](https://www.youtube.com/watch?v=ljSCNdV8eDo&list=PL1aMeb5UP_PFwwuiDCeOwHIlsy-Dcwlqf) | IDStack |
-| [JavaScript Lanjutan](https://www.youtube.com/watch?v=RwT41El778A&list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-) | Web Programming UNPAS | |
-
-### <img src="assets/icons/git.svg" width="24"> Git & <img src="assets/icons/github.svg" width="24"> GitHub
-
-| Daftar kursus                                                                                                                | Sumber                |
-| ---------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| [GIT & GITHUB](https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)                          | Web Programming UNPAS |
-| [Apa itu GitHub](https://www.youtube.com/watch?v=cM-zpc8LUk0&list=PLCZlgfAG0GXCtwnagWsUzZum1CFZYqrB5)                        | Sekolah Koding        |
-| [Tutorial GIT Bahasa Indonesia Lengkap](https://www.youtube.com/watch?v=i7fnAxHAp0M&list=PL1aMeb5UP_PHXTV_Xpt-19x_rVPXrymOM) | IDStack               |
-
-### <img src="assets/icons/nodejs.svg" width="24"> NodeJS
-
-| Daftar kursus                                                                                         | Sumber                |
-| ----------------------------------------------------------------------------------------------------- | --------------------- |
-| [Belajar NodeJS](https://www.youtube.com/watch?v=sSLJx5t4OJ4&list=PLFIM0718LjIW-XBdVOerYgKegBtD6rSfD) | Web Programming UNPAS |
-| [Belajar Nodejs](https://www.youtube.com/watch?v=8gpc3W-6-s8&list=PL9At9z2rvOC8ETtj8X1w5HLcaRUmRoS-3) | baledemy              |
-
-### <img src="assets/icons/expressjs.svg" width="24"> Express.js
-
-| Daftar kursus                                                                                                         | Sumber                                  |
-| --------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
-| [SERI BELAJAR EXPRESS JS - WEB](https://www.youtube.com/watch?v=kHHmdEdnfVk&list=PLea3rpAI1OjhXMq1urae8k6ldEiPtHm0J)  | sekolahkampus TV Programming & Tutorial |
-| [REST API Toko Online Expressjs](https://www.youtube.com/watch?v=tHAFGZfDWak&list=PLp6BJq2fT_g8cr3fDf4ZdTzv_5ncjDxVj) | LampungDev                              |
-
-### <img src="assets/icons/mongodb.svg" width="24"> MongoDB
-
-| Daftar kursus                                                                                                                         | Sumber               |
-| ------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| [Tutorial MongoDB Bahasa Indonesia Untuk Pemula](https://www.youtube.com/watch?v=rK87DPmXKss&list=PL_IjXn0_FZpnEGReatfR6dSoNUsD2nYML) | D.Koding             |
-| [Belajar MongoDB](https://www.youtube.com/watch?v=JXXUBiJGu94&list=PL-CtdCApEFH-eFFdPeS5e16o3THdmvxvz)                                | Programmer Zaman Now |
-
-### <img src="assets/icons/react.svg" width="24"> React
-
-| Daftar kursus                                                                                                             | Sumber          |
-| ------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| [ReactJS Tutorial](https://www.youtube.com/watch?v=5kHyviqjhCk&list=PLU4DS8KR-LJ03qEsHn9zV4qdhcWtusBqb)                   | prawinto hudoro |
-| [Belajar ReactJS Bahasa Indonesia](https://www.youtube.com/watch?v=ZNVRETPPW24&list=PLCZlgfAG0GXALZIcEe2t3XVuQ50JYbsbA)   | Sekolah Koding  |
-| [Tutorial React.js Bahasa Indonesia](https://www.youtube.com/watch?v=3M4dFZL5NRs&list=PLp6BJq2fT_g91yCNCWi_bIe-ng7S7rt6V) | LampungDev      |
-| [Belajar Reactjs](https://www.youtube.com/watch?v=gZQtT7MulYE&list=PL9At9z2rvOC8-NBRMj6WjgN3Vy71hwY3n)                    | baledemy        |
-| [React JS Dasar Bahasa Indonesia](https://www.youtube.com/watch?v=AYb7l6XDlPo&list=PLIan8aHxsPj0XtJjWW04hN24fWXrCpLkY)    | Wahidev Academy |
-
+<!-- 
 ### <img src="assets/icons/bootstrap.svg" width="24"> Bootstrap
 
 | Daftar kursus                                                                                                               | Sumber                |
@@ -214,6 +253,8 @@ Saya ingin membantu teman-teman untuk menemukan sumber belajar pemrograman berbe
 | [REST API](https://www.youtube.com/watch?v=vQJJ_K1JbEA&list=PLFIM0718LjIW7AsIbnhFg15t9yx4H-sQ0)              | Web Programming UNPAS                   |
 | [Belajar RESTful API](https://www.youtube.com/watch?v=uG1YiueoLNc&list=PL-CtdCApEFH-g0XS7fraWEZ28M8DiykC4)   | Programming Zaman Now                   |
 | [SERI BELAJAR API REST](https://www.youtube.com/watch?v=4sK2w5p93HM&list=PLea3rpAI1OjiyECqrWbZsFZkJzR9uESYj) | sekolahkampus TV Programming & Tutorial |
+
+-->
 
 ### 📝 Lisensi
 
